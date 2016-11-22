@@ -1,0 +1,9 @@
+/0_original_data/
+/1_preprocess_data/
+*.mat
+!/2_useful_data/human/*.mat
+!/2_useful_data/mouse/*.mat
+!/3_1_code(unsupervise)/CMNMF/data/human/*.mat
+!/3_1_code(unsupervise)/CMNMF/data/mouse/*.mat
+/4_draw_picture/
+/5_biology_analysis/
